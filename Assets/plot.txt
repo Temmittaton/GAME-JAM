@@ -2,8 +2,86 @@
 - the body was found in a garbage bag in front of the police office
 - inside was a letter about the murder
 - the victim got a letter about the smuggling ring
-- he met with the sender somewhere and is killed
+- he met with the sender graveyard and is killed
 - the blood is wiped and the body put in a garbage bag
 - the body is carried at night in a white van in front of the police office
 - the letter that the victim has received was a blackmail letter
 - the victim was the mastermind of the smuggling ring
+- the witness was an old man
+- 2nd witness was a young preschooler
+- the victim had a partner officer who went after the smuggling ring
+- the suspect is the one who addressed the letter to meet at the graveyard
+
+mc --> Devon Badgens
+boss --> Carter
+old man --> Vivant
+young preschooler --> Kevin
+victim --> Cal Meedad
+victims partner (killer) --> Turner
+
+--OUTSIDE THE OFFICE--
+*car drives, view of passing buildings*
+*the car arrives at the police office*
+mc: Ey, James!
+james: What is it, siiiir!
+mc: Congrats on your kid, man.
+james: T-thank you siiiiiiir!
+mc: Anyway, keep up the good work.
+james: Certainly, sir!
+
+--INSIDE THE OFFICE--
+mc: Heya, boss.
+boss: Well good morning, Mr Badgens.
+mc: Have you seen Cal somewhere?
+boss: No, I believe I haven't seen Officer Meedad anywhere.
+mc: Damn it. He was supposed to turn in the smuggling ring report today.
+boss: Don't you think you're going a little too hard on our officers?
+mc: Too hard? Hah! These guys need some discipline, man.
+boss: I'm just saying because I don't want anyone overworked.
+mc: Do you want to risk someones health or life just because the police is "overworked"?
+boss: Uh... no, but remember they aren't all machines and have families as well.
+mc: Leave it up to me boss. I'm more that capable of taking care of these lazy cops.
+boss: Well I trust in your abilities. Just don't go overboard.
+mc: Your word, my deed, boss!
+
+mc: Man, time to get back to all the paperwork.
+mc: ...........
+james: AAAAAAAAAAAAAAAAAAAAAA!
+mc: The hell was that!?
+james: *runs up to you* O-o-officer! M-m-mr Cal...
+mc: Spit it out!
+james: MR CAL IS DEAD!
+mc: What the?! Is this some kind of a joke?
+james: N-not even a bit, sir!
+mc: Where the hell is he right now!?
+james: I-in the office.
+mc: Whaaat!? He was found dead here?!
+james: Yesssssir!
+mc: What are you standing there for?! Go show me!
+james: Yesssssir! Follow me!
+
+mc: What in the actual fuck?!
+boss: I was called that... god sweet jesus.
+mc: That's what I'm fucking saying.
+james: He's dead!
+boss: No wonder he hasn't returned the paperwork.
+mc: Well, looks like we're having a new case to work on. James!
+james: Yessir?!
+mc: Call Forensics! I wanna have all evidence and witnesses tomorrow, chop chop!
+james: Y-yesssir!
+
+*NEXT DAY*
+mc: Heya, everyone!
+james: Oh! Detective! I've prepared all the files like you told me!
+mc: Oh, that's some good work, james! Anything else?
+james: We also got some fresh witnesses for you to interrogate!
+mc: Oh sweet! I will squeeze the words from that like my mornin' coffee.
+boss: I hope so.
+mc: Boss, everything is gonna go as planned.
+boss: We also have got a suspect, detective Badgens.
+mc: A suspect you say?
+boss: Yea, we want you to find some hard cold evidenc on him.
+boss: I mean we cannot hold him here forever, right?
+mc: Gotcha boss! You can count on me.
+boss: Oh, I know. Now if you'll excuse me.
+
