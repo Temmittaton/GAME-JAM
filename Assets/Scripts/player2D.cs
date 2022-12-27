@@ -5,27 +5,21 @@ using UnityEngine;
 
 public class player2D : MonoBehaviour {
     public Rigidbody2D rb;
-    [SerializeField] int jumpforce;
+    [SerializeField] int jumpForce;
     [SerializeField] float speed;
     public bool isGrounded = true;
     public GameObject cam;
-    public float friction, grav, maxSpeed;
+    public float friction, grav, maxSpeed, d;
     public Vector2 move;
+    public LayerMask groundMask;
 
     public void print(float a){
         Debug.Log(Convert.ToString(a));
     }
 
-    private void OnCollisionEnter2D(Collision2D collision){
-        if (collision.gameObject.tag == "floor"){
-            isGrounded = true;
-        }
-    }
-
-    private void OnCollisionExit2D(Collision2D collision){
-        if (collision.gameObject.tag == "floor"){
-            isGrounded = false;
-        }
+    public bool CheckGround(){
+        Debug.DrawRay(transform.position, Vector2.down, Color.red);
+        return Physics.Raycast(transform.position, Vector2.down, d, groundMask);
     }
 
     private void OnTriggerEnter2D(Collider2D collision){
@@ -36,17 +30,19 @@ public class player2D : MonoBehaviour {
     }
 
     void Update(){
+        isGrounded = CheckGround();
+
         float axis = Input.GetAxisRaw("Horizontal");
 
         move.x = Mathf.Clamp((move.x + axis * speed) * friction, -maxSpeed, maxSpeed);
 
         if (!isGrounded){move.y -= grav;}
-        else if (move.y < 0){move.y = 0f;}
+        else {move.y = 0f;}
         
         rb.velocity = move;
 
         if(Input.GetKeyDown(KeyCode.Space) && isGrounded){
-            rb.AddForce(Vector2.up * jumpforce, ForceMode2D.Impulse);
+            move.y = jumpForce;
             isGrounded = false;
         }
     }
