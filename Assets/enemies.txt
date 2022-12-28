@@ -1,0 +1,14 @@
+case file section:
+- words
+- paper planes
+- stapler
+- hole punch
+- paper clipper
+- desk lamp
+- desk
+- scissors
+- tape
+interrogation section:
+- killer figure with a knife
+- bats
+- skeletons
