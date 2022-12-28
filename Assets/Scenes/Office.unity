@@ -2527,7 +2527,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1392979817}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.023670556, y: -0.65883034, z: 0}
+  m_LocalPosition: {x: -0.023670556, y: -0.13, z: 0}
   m_LocalScale: {x: 1.9114476, y: 1.6770556, z: 3.9450848}
   m_Children: []
   m_Father: {fileID: 1154269773}
@@ -3900,7 +3900,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1955026532}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.023670556, y: -0.65883034, z: 0}
+  m_LocalPosition: {x: -0.023670556, y: -0.13, z: 0}
   m_LocalScale: {x: 1.9114476, y: 1.6770556, z: 3.9450848}
   m_Children: []
   m_Father: {fileID: 1176808876}
@@ -4132,6 +4132,14 @@ PrefabInstance:
       propertyPath: m_TagString
       value: file
       objectReference: {fileID: 0}
+    - target: {fileID: 960531927783430099, guid: 52d12267fef380d4c9e17a70036b14bf, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 960531927783430099, guid: 52d12267fef380d4c9e17a70036b14bf, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06
+      objectReference: {fileID: 0}
     - target: {fileID: 960531927783430100, guid: 52d12267fef380d4c9e17a70036b14bf, type: 3}
       propertyPath: mainCamera
       value: 
@@ -4329,7 +4337,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2880372748674781942, guid: da8285e097208074f887129d95d2978e, type: 3}
       propertyPath: m_SortingOrder
-      value: 100
+      value: 68
       objectReference: {fileID: 0}
     - target: {fileID: 2880372748674781943, guid: da8285e097208074f887129d95d2978e, type: 3}
       propertyPath: cam
@@ -4523,6 +4531,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1611559642}
     m_Modifications:
+    - target: {fileID: 4247926430015323281, guid: e3b76ecaadd433347ba4f164d70f27af, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4398417160385045304, guid: e3b76ecaadd433347ba4f164d70f27af, type: 3}
       propertyPath: m_Name
       value: paper plane
